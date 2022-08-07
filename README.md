@@ -4,4 +4,4 @@
 
 Grafana Credential <br>
 Username : admin <br>
-Password : Test
+Password : Test (Edit Password in /grafana/config.monitoring) (GF_SECURITY_ADMIN_PASSWORD=)<br>
